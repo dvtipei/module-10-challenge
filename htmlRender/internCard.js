@@ -1,0 +1,6 @@
+function internCard(data){
+    return `
+    
+    
+    `
+}

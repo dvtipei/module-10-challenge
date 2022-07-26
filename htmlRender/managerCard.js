@@ -1,0 +1,6 @@
+function managerCard(data){
+    return `
+    
+    
+    `
+}
